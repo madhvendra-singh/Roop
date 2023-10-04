@@ -1,0 +1,1 @@
+python run.py --target /content/mia01.mp4 --source /content/input.png -o /content/swapped.mp4 --execution-provider cuda --frame-processor face_swapper face_enhancer
